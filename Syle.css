@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.Navbar{
+    display: flex;
+
+}
+
+.Navbar:hover{
+    transition: 2px 3s ease-in-out;
+    transition: 20px;
+}
